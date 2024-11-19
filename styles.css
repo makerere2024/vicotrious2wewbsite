@@ -17,13 +17,13 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 80%;
+    width: 120%;
     margin: 0 auto;
 }
 
 .profile-photo {
-    width: 80px;
-    height: 80px;
+    width: 95px;
+    height: 95px;
     border-radius: 50%;
     border: 3px solid #fff;
 }
@@ -52,7 +52,7 @@ nav ul li a:hover {
 /* Section Styles */
 .section {
     padding: 40px 20px;
-    width: 60%;
+    width: 90%;
     margin: 0 auto;
 }
 
